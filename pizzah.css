@@ -124,3 +124,7 @@ p {
 ::-webkit-scrollbar { 
     display: none; 
 }
+
+.pizza1 {
+	position: absolute;
+}
