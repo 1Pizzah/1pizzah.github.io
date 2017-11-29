@@ -74,7 +74,7 @@ ul {
    	margin: 0;
    	padding: 0;
    	overflow: hidden;
-	background-color: #262626;
+	background-color: white;
 	position: fixed;
 	top: 0;
 	width: 100%;
@@ -87,20 +87,24 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
     padding: 30px 32px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: #262626;
-    color: #bfbfbf;
+    background-color: white;
+    color: black;
+		text-decoration: overline underline;
+		text-decoration-color: black;
 }
 
 .active {
-    background-color: #262626;
-    color: #bfbfbf;
+    background-color: white;
+    color: black;
+		text-decoration: overline underline;
+		text-decoration-color: black;
 }
 
 h1 {
