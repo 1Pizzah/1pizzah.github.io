@@ -1,5 +1,5 @@
 html {
-	margin-top: 79px;
+	margin-top: 99px;
 	font-family: 'Roboto';
 	height: 100%;
 	box-sizing: border-box;
@@ -89,7 +89,7 @@ li a {
     display: block;
     color: black;
     text-align: center;
-    padding: 50px 54px;
+    padding: 40px 20px;
     text-decoration: none;
 }
 
