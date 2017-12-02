@@ -73,7 +73,7 @@ ul {
    	margin: 0;
    	padding: 0;
    	overflow: hidden;
-		background-color: white;
+		background-color: #515151;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -88,24 +88,24 @@ li {
 
 li a {
     display: block;
-    color: black;
+    color: white;
     text-align: center;
     padding: 40px 35px;
     text-decoration: none;
 }
 
 li a:hover:not(.active) {
-    background-color: white;
-    color: black;
+    background-color: #515151;
+    color: white;
 		text-decoration: overline underline;
-		text-decoration-color: black;
+		text-decoration-color: white;
 }
 
 .active {
-    background-color: white;
-    color: black;
+    background-color: #515151;
+    color: white;
 		text-decoration: overline underline;
-		text-decoration-color: black;
+		text-decoration-color: white;
 }
 
 #Titel {
@@ -116,6 +116,7 @@ li a:hover:not(.active) {
 		font-size: 45px;
 		font-weight: 600;
 		margin: 0;
+		color: #515151;
 }
 
 p {
@@ -126,6 +127,7 @@ p {
 #Welkom {
 		font-size: 20px;
 		font-weight: 100;
+		color: #515151;
 }
 
 .footer {
@@ -135,8 +137,8 @@ p {
  		left: 0;
  		padding-top: 20px;
 		padding-bottom: 20px;
- 		background-color: #efefef;
-		color: #515151;
+ 		background-color: #515151;
+		color: white;
 		padding-left: 75px;
 		font-weight: 100;
 		font-size: 15px
@@ -159,6 +161,7 @@ p {
 		padding-right: 20px;
 		padding-top: 15.5px;
 		margin: 0;
+		color: white;
 }
 
 #LogoImage {
