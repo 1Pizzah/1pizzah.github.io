@@ -4,6 +4,9 @@ body {
  		min-height: 100%;
 		padding-bottom: 6rem;
 }
+h2  {
+		margin:0;
+}
 
 html {
 		margin-top: 110px;
