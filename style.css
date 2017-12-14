@@ -83,7 +83,7 @@ ul {
 }
 
 .dropbtn:hover, .dropbtn:focus {
-    background-color: #3e8e41;
+    background-color: #515151;
 }
 
 .dropdown {
@@ -108,7 +108,7 @@ ul {
 }
 
 .dropdown-content a:hover {
-    background-color: #f1f1f1
+    background-color: #515151
 }
 
 .footer {
