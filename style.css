@@ -4,10 +4,12 @@ body {
  		min-height: 100%;
 		padding-bottom: 6rem;
 }
+
 h2  {
 		margin: 0;
 		padding-left: 75px;
 		color: #515151;
+		font-weight: 400;
 }
 
 html {
