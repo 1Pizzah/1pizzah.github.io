@@ -18,7 +18,9 @@ html {
 		height: 100%;
 		box-sizing: border-box;
 }
-
+img.Image {
+		max-width:600px;
+}
 li {
     float: right;
 		font-weight: 700;
