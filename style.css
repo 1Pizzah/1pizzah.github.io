@@ -4,6 +4,9 @@ body {
  		min-height: 100%;
 		padding-bottom: 6rem;
 }
+img {
+		border-radius:50%
+}
 
 h2  {
 		margin: 0;
