@@ -173,10 +173,12 @@ ul {
 table {
     border-collapse: collapse;
     padding-left: 75px;
+	color: #515151;
 }
 
 td,th {
     text-align: left;
     padding: 8px;
     padding-left: 75px;
+	color: #515151;
 }
