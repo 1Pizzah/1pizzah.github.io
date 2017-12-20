@@ -90,10 +90,11 @@ ul {
     right: 0;
     bottom: 0;
     left: 0;
-    padding: 25px;
+    padding: 15px;
     background-color: #515151;
     color: white;
     text-align: center;
+    border: 1px solid white;
 }
 
 .show {
