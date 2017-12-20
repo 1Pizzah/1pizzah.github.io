@@ -94,7 +94,6 @@ ul {
     background-color: #515151;
     color: white;
     text-align: center;
-    border: 1px solid white;
 }
 
 .show {
@@ -140,6 +139,7 @@ ul {
     padding-top: 15px;
     padding-bottom: 15px;
     border-radius: 50%;
+    border: 1px solid white;
 }
 
 #hotspicy,
